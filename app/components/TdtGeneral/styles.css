@@ -1,0 +1,27 @@
+.dividerContainer {
+  margin-left: 40px;
+  margin-right: 32px;
+  position: relative; }
+  .dividerContainer .timelineTitle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+
+/*# sourceMappingURL=styles.css.map */
+
+/* .css-2b097c-container {
+  z-index: 10;
+} */
+
+.styless {
+  margin-bottom: 0px;
+  position: relative;
+  top: 0.7rem;
+  left: 1rem;
+  z-index: 1;
+  background: white;
+  width: 6.5rem;
+  color: #8d8888;
+  font-size: 13px;
+}
